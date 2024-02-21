@@ -1,0 +1,122 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: burlywood; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: orange;
+    height: 500px;
+    width: 100%;
+
+}
+
+.l{
+    background-color: rgb(243, 52, 4);
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.m{
+    
+    height: 300px;
+    width: 10%;
+    float: left;
+}
+
+.r{
+    background-color: rgb(221, 161, 210);
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+
+.top1{
+    background-color: burlywood;
+    height: 50px;
+    width: 100%;
+}
+
+.sml{
+    background-color: burlywood;
+    height: 1200px;
+    width: 2%;
+    float: left;
+}
+
+.smallbox{
+    background-color: burlywood;
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+
+.wideimage{
+    background-color: antiquewhite;
+    height: 1200px;
+    width: 96%;
+    float: left;
+}
+
+.emptyspaceflat1{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 100%;
+    float: top;
+}
+
+.textbox{
+    background-color: antiquewhite;
+    height: 1100px;
+    width: 32%;
+    float: left;
+}
+
+.logobox{
+    background-color: burlywood;
+    height: 50px;
+    width: 10%;
+    float: left;
+}
+
+.emptyspaceflat2{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 100%;
+    float: bottom;
+}
+
+.locomotionbox{
+    background-color: burlywood;
+    height: 50px;
+    width: 33%;
+    float: right;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+li a{
+display: block;
+color: black;
+font-size: 16px;
+text-align: center;
+text-decoration: none;
+padding-top: 10px;
+padding-left: 20px;
+}
+
+li a:hover{
+    color: dimgray;
+}
+
